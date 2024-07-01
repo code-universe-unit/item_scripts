@@ -1,0 +1,8100 @@
+
+        ['1000bearerbond'] = {
+            label = '1000bearerbond',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['10kgoldchain'] = {
+            label = '10kgoldchain',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['1gheroin'] = {
+            label = '1gheroin',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['acapulcogold_leaf'] = {
+            label = 'acapulcogold_leaf',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['acapulcogold_seed'] = {
+            label = 'acapulcogold_seed',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['acapulcogold_trimmed_bud'] = {
+            label = 'acapulcogold_trimmed_bud',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['acapulcogold_untrimmed_bud'] = {
+            label = 'acapulcogold_untrimmed_bud',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['accesstool'] = {
+            label = 'accesstool',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['acetone'] = {
+            label = 'acetone',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['acetonebarrel'] = {
+            label = 'acetonebarrel',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['acid1'] = {
+            label = 'acid1',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['acyclovir'] = {
+            label = 'acyclovir',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['adress_book'] = {
+            label = 'adress_book',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['advancedkit'] = {
+            label = 'advancedkit',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['advancedlockpick'] = {
+            label = 'advancedlockpick',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['alla'] = {
+            label = 'alla',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['aluminum'] = {
+            label = 'aluminum',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['aluminumoxide'] = {
+            label = 'aluminumoxide',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['amaretto'] = {
+            label = 'amaretto',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['amarettosour'] = {
+            label = 'amarettosour',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['amarone'] = {
+            label = 'amarone',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['ambeer'] = {
+            label = 'ambeer',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['americancheese'] = {
+            label = 'americancheese',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['ammonia'] = {
+            label = 'ammonia',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['ammoniumnitrate'] = {
+            label = 'ammoniumnitrate',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['ammoniumnitratebarrel'] = {
+            label = 'ammoniumnitratebarrel',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['ammonium_nitrate'] = {
+            label = 'ammonium_nitrate',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['anchor'] = {
+            label = 'anchor',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['anchovy'] = {
+            label = 'anchovy',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['anglegrinder'] = {
+            label = 'anglegrinder',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['antipatharia_coral'] = {
+            label = 'antipatharia_coral',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['apple'] = {
+            label = 'apple',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['apple_crate'] = {
+            label = 'apple_crate',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['armor'] = {
+            label = 'armor',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['armor_ems'] = {
+            label = 'armor_ems',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['armour'] = {
+            label = 'armour',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['aspirin'] = {
+            label = 'aspirin',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['atomfries'] = {
+            label = 'atomfries',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['atomshake'] = {
+            label = 'atomshake',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['atomsoda'] = {
+            label = 'atomsoda',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['atum'] = {
+            label = 'atum',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['azithromycin'] = {
+            label = 'azithromycin',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['b52'] = {
+            label = 'b52',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['babypowder'] = {
+            label = 'babypowder',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['bacalhau'] = {
+            label = 'bacalhau',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['bacalhaucozido'] = {
+            label = 'bacalhaucozido',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['backpack_boy'] = {
+            label = 'backpack_boy',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['backpack_girl'] = {
+            label = 'backpack_girl',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['bacon'] = {
+            label = 'bacon',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['baconburger'] = {
+            label = 'baconburger',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['baconcheesemelt'] = {
+            label = 'baconcheesemelt',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['baconegg'] = {
+            label = 'baconegg',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['baconeggs'] = {
+            label = 'baconeggs',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['baconroll'] = {
+            label = 'baconroll',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['bag'] = {
+            label = 'bag',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['bakingsoda'] = {
+            label = 'bakingsoda',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['baleia'] = {
+            label = 'baleia',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['bandage'] = {
+            label = 'bandage',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['bangers'] = {
+            label = 'bangers',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['baquette'] = {
+            label = 'baquette',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['barbera'] = {
+            label = 'barbera',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['barley'] = {
+            label = 'barley',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['barley_sack'] = {
+            label = 'barley_sack',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['barley_seed'] = {
+            label = 'barley_seed',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['barricade'] = {
+            label = 'barricade',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['base2'] = {
+            label = 'base2',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['basil'] = {
+            label = 'basil',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['bbq'] = {
+            label = 'bbq',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['beachtowel'] = {
+            label = 'beachtowel',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['beaker'] = {
+            label = 'beaker',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['beef_jerky'] = {
+            label = 'beef_jerky',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['beerbatterfish'] = {
+            label = 'beerbatterfish',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['beerglass'] = {
+            label = 'beerglass',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['bellini'] = {
+            label = 'bellini',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['beltcutter'] = {
+            label = 'beltcutter',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['bento'] = {
+            label = 'bento',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['big_scale'] = {
+            label = 'big_scale',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['binoculars'] = {
+            label = 'binoculars',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['birdfeather'] = {
+            label = 'birdfeather',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['bird_feather'] = {
+            label = 'bird_feather',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['bkamikaze'] = {
+            label = 'bkamikaze',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['bltsandwich'] = {
+            label = 'bltsandwich',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['blueberry'] = {
+            label = 'blueberry',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['blueberry_crate'] = {
+            label = 'blueberry_crate',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['blueberry_seed'] = {
+            label = 'blueberry_seed',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['bluebin'] = {
+            label = 'bluebin',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['blunt'] = {
+            label = 'blunt',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['bluntwrap'] = {
+            label = 'bluntwrap',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['bmx'] = {
+            label = 'bmx',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['boartusks'] = {
+            label = 'boartusks',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['boar_tusks'] = {
+            label = 'boar_tusks',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['boba'] = {
+            label = 'boba',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['bobcatkeycard'] = {
+            label = 'bobcatkeycard',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['bodyrepair'] = {
+            label = 'bodyrepair',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['bolognese'] = {
+            label = 'bolognese',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['bomb'] = {
+            label = 'bomb',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['boombox'] = {
+            label = 'boombox',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['bootlegvodka'] = {
+            label = 'bootlegvodka',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['bottle'] = {
+            label = 'bottle',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['box_chocolate'] = {
+            label = 'box_chocolate',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['box_empty'] = {
+            label = 'box_empty',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['box_meat'] = {
+            label = 'box_meat',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['box_seafood'] = {
+            label = 'box_seafood',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['bplate'] = {
+            label = 'bplate',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['bprooftires'] = {
+            label = 'bprooftires',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['brakes1'] = {
+            label = 'brakes1',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['brakes2'] = {
+            label = 'brakes2',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['brakes3'] = {
+            label = 'brakes3',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['breadslice'] = {
+            label = 'breadslice',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['breathalyzer'] = {
+            label = 'breathalyzer',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['briefcase'] = {
+            label = 'briefcase',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['broccoli'] = {
+            label = 'broccoli',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['broccoli_crate'] = {
+            label = 'broccoli_crate',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['broccoli_raw'] = {
+            label = 'broccoli_raw',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['broccoli_seed'] = {
+            label = 'broccoli_seed',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['brussian'] = {
+            label = 'brussian',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['bs_bun'] = {
+            label = 'bs_bun',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['bs_patty_raw'] = {
+            label = 'bs_patty_raw',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['bubbletea'] = {
+            label = 'bubbletea',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['bubbleteablue'] = {
+            label = 'bubbleteablue',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['bubbleteagreen'] = {
+            label = 'bubbleteagreen',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['bubbleteaorange'] = {
+            label = 'bubbleteaorange',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['bubbleteapink'] = {
+            label = 'bubbleteapink',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['bucket'] = {
+            label = 'bucket',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['bulk_water'] = {
+            label = 'bulk_water',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['bumper'] = {
+            label = 'bumper',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['burger-bleeder'] = {
+            label = 'burger-bleeder',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['burger-chickenmelt'] = {
+            label = 'burger-chickenmelt',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['burger-chickenwrap'] = {
+            label = 'burger-chickenwrap',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['burger-coffee'] = {
+            label = 'burger-coffee',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['burger-creampie'] = {
+            label = 'burger-creampie',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['burger-fries'] = {
+            label = 'burger-fries',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['burger-frozennugget'] = {
+            label = 'burger-frozennugget',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['burger-goatwrap'] = {
+            label = 'burger-goatwrap',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['burger-heartstopper'] = {
+            label = 'burger-heartstopper',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['burger-icecream (2)'] = {
+            label = 'burger-icecream (2)',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['burger-icecream-empty'] = {
+            label = 'burger-icecream-empty',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['burger-icecream'] = {
+            label = 'burger-icecream',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['burger-meatfree'] = {
+            label = 'burger-meatfree',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['burger-milk'] = {
+            label = 'burger-milk',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['burger-milkshake'] = {
+            label = 'burger-milkshake',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['burger-moneyshot'] = {
+            label = 'burger-moneyshot',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['burger-onion'] = {
+            label = 'burger-onion',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['burger-rimjob'] = {
+            label = 'burger-rimjob',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['burger-shotnuggets'] = {
+            label = 'burger-shotnuggets',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['burger-shotrings'] = {
+            label = 'burger-shotrings',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['burger-slicedonion'] = {
+            label = 'burger-slicedonion',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['burger-slicedpotato'] = {
+            label = 'burger-slicedpotato',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['burger-softdrink'] = {
+            label = 'burger-softdrink',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['burger-torpedo'] = {
+            label = 'burger-torpedo',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['burger'] = {
+            label = 'burger',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['burgerbag'] = {
+            label = 'burgerbag',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['burgerbun'] = {
+            label = 'burgerbun',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['burgermeat'] = {
+            label = 'burgermeat',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['burgerpatty'] = {
+            label = 'burgerpatty',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['burrito'] = {
+            label = 'burrito',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['butcherpaper'] = {
+            label = 'butcherpaper',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['c4_bomb'] = {
+            label = 'c4_bomb',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cactusfruit'] = {
+            label = 'cactusfruit',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cactusfruit_crate'] = {
+            label = 'cactusfruit_crate',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cactus_seed'] = {
+            label = 'cactus_seed',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cake'] = {
+            label = 'cake',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cakepop'] = {
+            label = 'cakepop',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['calamari'] = {
+            label = 'calamari',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['campfire'] = {
+            label = 'campfire',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['camptent'] = {
+            label = 'camptent',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['camptent2'] = {
+            label = 'camptent2',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['camptent3'] = {
+            label = 'camptent3',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['camptent4'] = {
+            label = 'camptent4',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['can'] = {
+            label = 'can',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cananivel1'] = {
+            label = 'cananivel1',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cananivel2'] = {
+            label = 'cananivel2',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cananivel3'] = {
+            label = 'cananivel3',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cananivel4'] = {
+            label = 'cananivel4',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cananivel5'] = {
+            label = 'cananivel5',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cannabis'] = {
+            label = 'cannabis',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cannabisbutter'] = {
+            label = 'cannabisbutter',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cannabisgummies'] = {
+            label = 'cannabisgummies',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cannabisoil'] = {
+            label = 'cannabisoil',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cannabispaincream'] = {
+            label = 'cannabispaincream',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cannabisvegetariana'] = {
+            label = 'cannabisvegetariana',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cannibis'] = {
+            label = 'cannibis',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['canopy'] = {
+            label = 'canopy',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cappucc'] = {
+            label = 'cappucc',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['capricciosa'] = {
+            label = 'capricciosa',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['carbon'] = {
+            label = 'carbon',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['carjack'] = {
+            label = 'carjack',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['carkeys'] = {
+            label = 'carkeys',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['carrot'] = {
+            label = 'carrot',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['carrotcake'] = {
+            label = 'carrotcake',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['carrot_crate'] = {
+            label = 'carrot_crate',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['carrot_raw'] = {
+            label = 'carrot_raw',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['carrot_seed'] = {
+            label = 'carrot_seed',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['carstereo'] = {
+            label = 'carstereo',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['casinochips'] = {
+            label = 'casinochips',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['casino_beer'] = {
+            label = 'casino_beer',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['casino_burger'] = {
+            label = 'casino_burger',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['casino_chips'] = {
+            label = 'casino_chips',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['casino_coffee'] = {
+            label = 'casino_coffee',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['casino_coke'] = {
+            label = 'casino_coke',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['casino_donut'] = {
+            label = 'casino_donut',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['casino_ego_chaser'] = {
+            label = 'casino_ego_chaser',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['casino_luckypotion'] = {
+            label = 'casino_luckypotion',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['casino_psqs'] = {
+            label = 'casino_psqs',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['casino_sandwitch'] = {
+            label = 'casino_sandwitch',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['casino_sprite'] = {
+            label = 'casino_sprite',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cataccino'] = {
+            label = 'cataccino',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['catcoffee'] = {
+            label = 'catcoffee',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['catcookie'] = {
+            label = 'catcookie',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['catdonut'] = {
+            label = 'catdonut',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['catfish'] = {
+            label = 'catfish',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['catpizza'] = {
+            label = 'catpizza',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['catrice'] = {
+            label = 'catrice',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cautionsign'] = {
+            label = 'cautionsign',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cavala'] = {
+            label = 'cavala',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cavalacozida'] = {
+            label = 'cavalacozida',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['ccookie'] = {
+            label = 'ccookie',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cdplayer'] = {
+            label = 'cdplayer',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['certificate'] = {
+            label = 'certificate',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cheddar'] = {
+            label = 'cheddar',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cheeseburger'] = {
+            label = 'cheeseburger',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cheesecake'] = {
+            label = 'cheesecake',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cheesesandwich'] = {
+            label = 'cheesesandwich',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['chemicalmixer'] = {
+            label = 'chemicalmixer',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['chickenbreast'] = {
+            label = 'chickenbreast',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['chickenbreasts'] = {
+            label = 'chickenbreasts',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['chickenburger'] = {
+            label = 'chickenburger',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['chickenfaj'] = {
+            label = 'chickenfaj',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['chickenfillet'] = {
+            label = 'chickenfillet',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['chickenpie'] = {
+            label = 'chickenpie',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['chickensalad'] = {
+            label = 'chickensalad',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['chickensandwich'] = {
+            label = 'chickensandwich',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['chickentaco'] = {
+            label = 'chickentaco',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['chickenthighs'] = {
+            label = 'chickenthighs',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['chickenthing'] = {
+            label = 'chickenthing',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['chickhornstars'] = {
+            label = 'chickhornstars',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['chillidog'] = {
+            label = 'chillidog',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['chillimince'] = {
+            label = 'chillimince',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['chips'] = {
+            label = 'chips',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['chocolate'] = {
+            label = 'chocolate',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['chocolate_icecream'] = {
+            label = 'chocolate_icecream',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['chocpudding'] = {
+            label = 'chocpudding',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['churros'] = {
+            label = 'churros',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cigarette'] = {
+            label = 'cigarette',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cleaningkit'] = {
+            label = 'cleaningkit',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cloth'] = {
+            label = 'cloth',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['co2'] = {
+            label = 'co2',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['Coca-leaves-1920x980'] = {
+            label = 'Coca-leaves-1920x980',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['coca'] = {
+            label = 'coca',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cocaine'] = {
+            label = 'cocaine',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cocaineleaf'] = {
+            label = 'cocaineleaf',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cocaine_baggy'] = {
+            label = 'cocaine_baggy',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cocaleaf'] = {
+            label = 'cocaleaf',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['codeine'] = {
+            label = 'codeine',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['coffee'] = {
+            label = 'coffee',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cokebrick'] = {
+            label = 'cokebrick',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cokepackage'] = {
+            label = 'cokepackage',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['coke_brick'] = {
+            label = 'coke_brick',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['coke_small_brick'] = {
+            label = 'coke_small_brick',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cola'] = {
+            label = 'cola',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['coldweiner'] = {
+            label = 'coldweiner',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['colombiangold_leaf'] = {
+            label = 'colombiangold_leaf',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['colombiangold_seed'] = {
+            label = 'colombiangold_seed',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['colombiangold_trimmed_bud'] = {
+            label = 'colombiangold_trimmed_bud',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['colombiangold_untrimmed_bud'] = {
+            label = 'colombiangold_untrimmed_bud',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cone'] = {
+            label = 'cone',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cooking_chocolate'] = {
+            label = 'cooking_chocolate',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cooking_vodka'] = {
+            label = 'cooking_vodka',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cooking_water'] = {
+            label = 'cooking_water',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cooler'] = {
+            label = 'cooler',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['copper'] = {
+            label = 'copper',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['copperore'] = {
+            label = 'copperore',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['copper_wires'] = {
+            label = 'copper_wires',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['corn'] = {
+            label = 'corn',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['corn_crate'] = {
+            label = 'corn_crate',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['corn_raw'] = {
+            label = 'corn_raw',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['corn_seed'] = {
+            label = 'corn_seed',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cosmopolitan'] = {
+            label = 'cosmopolitan',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cougar_claw'] = {
+            label = 'cougar_claw',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['covidvaccine'] = {
+            label = 'covidvaccine',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cowpelt'] = {
+            label = 'cowpelt',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['coyotepelt'] = {
+            label = 'coyotepelt',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['coyote_teeth'] = {
+            label = 'coyote_teeth',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cplate'] = {
+            label = 'cplate',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['crackmixingagent'] = {
+            label = 'crackmixingagent',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['crack_baggy'] = {
+            label = 'crack_baggy',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cranberry'] = {
+            label = 'cranberry',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cream'] = {
+            label = 'cream',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cryptostick'] = {
+            label = 'cryptostick',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cubasil'] = {
+            label = 'cubasil',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cucumber'] = {
+            label = 'cucumber',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cucumber_crate'] = {
+            label = 'cucumber_crate',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cucumber_seed'] = {
+            label = 'cucumber_seed',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['curaco'] = {
+            label = 'curaco',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['cutter'] = {
+            label = 'cutter',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['dblchickenburger'] = {
+            label = 'dblchickenburger',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['dblhornburger'] = {
+            label = 'dblhornburger',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['deerhorns'] = {
+            label = 'deerhorns',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['deer_horns'] = {
+            label = 'deer_horns',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['dendrogyra_coral'] = {
+            label = 'dendrogyra_coral',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['diamond'] = {
+            label = 'diamond',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['diamond_earring'] = {
+            label = 'diamond_earring',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['diamond_earring_silver'] = {
+            label = 'diamond_earring_silver',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['diamond_necklace'] = {
+            label = 'diamond_necklace',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['diamond_necklace_silver'] = {
+            label = 'diamond_necklace_silver',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['diamond_ring'] = {
+            label = 'diamond_ring',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['diamond_ring_silver'] = {
+            label = 'diamond_ring_silver',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['diavola'] = {
+            label = 'diavola',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['diffusedbomb'] = {
+            label = 'diffusedbomb',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['discofries'] = {
+            label = 'discofries',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['distilledwater'] = {
+            label = 'distilledwater',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['diving_gear'] = {
+            label = 'diving_gear',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['dnatestkit'] = {
+            label = 'dnatestkit',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['document'] = {
+            label = 'document',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['dolceto'] = {
+            label = 'dolceto',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['dosidos_leaf'] = {
+            label = 'dosidos_leaf',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['dosidos_seed'] = {
+            label = 'dosidos_seed',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['dosidos_trimmed_bud'] = {
+            label = 'dosidos_trimmed_bud',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['dosidos_untrimmed_bud'] = {
+            label = 'dosidos_untrimmed_bud',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['dramamine'] = {
+            label = 'dramamine',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['drifttires'] = {
+            label = 'drifttires',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['drill-bit'] = {
+            label = 'drill-bit',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['drill'] = {
+            label = 'drill',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['drillbit'] = {
+            label = 'drillbit',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['driver_license'] = {
+            label = 'driver_license',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['drone'] = {
+            label = 'drone',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['drone_1'] = {
+            label = 'drone_1',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['drone_2'] = {
+            label = 'drone_2',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['drone_3'] = {
+            label = 'drone_3',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['drone_4'] = {
+            label = 'drone_4',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['drone_5'] = {
+            label = 'drone_5',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['drone_6'] = {
+            label = 'drone_6',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['drone_lspd'] = {
+            label = 'drone_lspd',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['drugtestkit'] = {
+            label = 'drugtestkit',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['drug_ecstasy'] = {
+            label = 'drug_ecstasy',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['drug_lean'] = {
+            label = 'drug_lean',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['drug_lsd'] = {
+            label = 'drug_lsd',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['drug_lsd_2'] = {
+            label = 'drug_lsd_2',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['drug_meth'] = {
+            label = 'drug_meth',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['drug_phone'] = {
+            label = 'drug_phone',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['ducttape'] = {
+            label = 'ducttape',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['dusche'] = {
+            label = 'dusche',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['e2_cpu'] = {
+            label = 'e2_cpu',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['ecgonine'] = {
+            label = 'ecgonine',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['ecola'] = {
+            label = 'ecola',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['ecolalight'] = {
+            label = 'ecolalight',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['egg'] = {
+            label = 'egg',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['eggbene'] = {
+            label = 'eggbene',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['eggsandwich'] = {
+            label = 'eggsandwich',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['egg_crate'] = {
+            label = 'egg_crate',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['electronickit'] = {
+            label = 'electronickit',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['emerald'] = {
+            label = 'emerald',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['emerald_earring'] = {
+            label = 'emerald_earring',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['emerald_earring_silver'] = {
+            label = 'emerald_earring_silver',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['emerald_necklace'] = {
+            label = 'emerald_necklace',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['emerald_necklace_silver'] = {
+            label = 'emerald_necklace_silver',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['emerald_ring'] = {
+            label = 'emerald_ring',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['emerald_ring_silver'] = {
+            label = 'emerald_ring_silver',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['empty-baggies'] = {
+            label = 'empty-baggies',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['emptychembottles'] = {
+            label = 'emptychembottles',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['emptycrate'] = {
+            label = 'emptycrate',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['emptydocuments'] = {
+            label = 'emptydocuments',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['emptymilkbottle'] = {
+            label = 'emptymilkbottle',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['emptysack'] = {
+            label = 'emptysack',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['enchi'] = {
+            label = 'enchi',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['enchilada'] = {
+            label = 'enchilada',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['ephedrine'] = {
+            label = 'ephedrine',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['evidence'] = {
+            label = 'evidence',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['exhaust'] = {
+            label = 'exhaust',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['explosive'] = {
+            label = 'explosive',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['extasy'] = {
+            label = 'extasy',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['fakecrab'] = {
+            label = 'fakecrab',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['farmguide'] = {
+            label = 'farmguide',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['farming_butter'] = {
+            label = 'farming_butter',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['farming_chickenbreast'] = {
+            label = 'farming_chickenbreast',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['farming_egg'] = {
+            label = 'farming_egg',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['farming_tomato'] = {
+            label = 'farming_tomato',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['farm_fertilizer'] = {
+            label = 'farm_fertilizer',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['fentanyl'] = {
+            label = 'fentanyl',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['fingerprintreader'] = {
+            label = 'fingerprintreader',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['firework1'] = {
+            label = 'firework1',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['firework2'] = {
+            label = 'firework2',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['firework3'] = {
+            label = 'firework3',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['firework4'] = {
+            label = 'firework4',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['firstaid'] = {
+            label = 'firstaid',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['fishbait'] = {
+            label = 'fishbait',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['fishbaitillegal'] = {
+            label = 'fishbaitillegal',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['fishicebox'] = {
+            label = 'fishicebox',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['fishingrod'] = {
+            label = 'fishingrod',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['fishing_license'] = {
+            label = 'fishing_license',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['fishing_net1'] = {
+            label = 'fishing_net1',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['fishing_net2'] = {
+            label = 'fishing_net2',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['fishing_net3'] = {
+            label = 'fishing_net3',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['fishing_net4'] = {
+            label = 'fishing_net4',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['fishing_rod1'] = {
+            label = 'fishing_rod1',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['fishing_rod2'] = {
+            label = 'fishing_rod2',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['fishing_rod3'] = {
+            label = 'fishing_rod3',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['fishing_rod4'] = {
+            label = 'fishing_rod4',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['fishtacklebox'] = {
+            label = 'fishtacklebox',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['fish_fillet'] = {
+            label = 'fish_fillet',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['fitbit'] = {
+            label = 'fitbit',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['flour'] = {
+            label = 'flour',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['fogueira'] = {
+            label = 'fogueira',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['foldingchair1'] = {
+            label = 'foldingchair1',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['foldingchair2'] = {
+            label = 'foldingchair2',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['foldingtable'] = {
+            label = 'foldingtable',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['formaldehyde'] = {
+            label = 'formaldehyde',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['frenchbacon'] = {
+            label = 'frenchbacon',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['frenchtoast'] = {
+            label = 'frenchtoast',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['friedpick'] = {
+            label = 'friedpick',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['fruitsmoothie'] = {
+            label = 'fruitsmoothie',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['fruittart'] = {
+            label = 'fruittart',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['garden_pitcher'] = {
+            label = 'garden_pitcher',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['garden_shovel'] = {
+            label = 'garden_shovel',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['gasmask'] = {
+            label = 'gasmask',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['gazpacho'] = {
+            label = 'gazpacho',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['gelato'] = {
+            label = 'gelato',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['generator'] = {
+            label = 'generator',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['gin'] = {
+            label = 'gin',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['glass'] = {
+            label = 'glass',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['goldbar'] = {
+            label = 'goldbar',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['goldchain'] = {
+            label = 'goldchain',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['goldingot'] = {
+            label = 'goldingot',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['goldore'] = {
+            label = 'goldore',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['goldpan'] = {
+            label = 'goldpan',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['goldphone'] = {
+            label = 'goldphone',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['gold_earring'] = {
+            label = 'gold_earring',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['gold_ring'] = {
+            label = 'gold_ring',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['golfinho'] = {
+            label = 'golfinho',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['gopro'] = {
+            label = 'gopro',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['goprotablet'] = {
+            label = 'goprotablet',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['gp-takout'] = {
+            label = 'gp-takout',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['gpbag'] = {
+            label = 'gpbag',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['gps_hacking_device'] = {
+            label = 'gps_hacking_device',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['gp_candied_bacon'] = {
+            label = 'gp_candied_bacon',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['gp_chocolate_cupcake'] = {
+            label = 'gp_chocolate_cupcake',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['gp_crabcakes'] = {
+            label = 'gp_crabcakes',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['gp_pulledporksand'] = {
+            label = 'gp_pulledporksand',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['gp_pulled_pork_sliders'] = {
+            label = 'gp_pulled_pork_sliders',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['gp_ranch_chicken_wrap'] = {
+            label = 'gp_ranch_chicken_wrap',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['gp_salad'] = {
+            label = 'gp_salad',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['gp_soup_salad_sandwich_combo'] = {
+            label = 'gp_soup_salad_sandwich_combo',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['gp_strawberry_shortcake'] = {
+            label = 'gp_strawberry_shortcake',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['gp_tea_bobba_milk'] = {
+            label = 'gp_tea_bobba_milk',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['gp_tea_green_matcha'] = {
+            label = 'gp_tea_green_matcha',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['gp_tea_iced'] = {
+            label = 'gp_tea_iced',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['gp_tea_peach_ided'] = {
+            label = 'gp_tea_peach_ided',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['grape'] = {
+            label = 'grape',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['grapejuice'] = {
+            label = 'grapejuice',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['greengelato'] = {
+            label = 'greengelato',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['greengelato_trimmed_bud'] = {
+            label = 'greengelato_trimmed_bud',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['green_gelato_cannabis'] = {
+            label = 'green_gelato_cannabis',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['grilled-salmon'] = {
+            label = 'grilled-salmon',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['grilledchicken'] = {
+            label = 'grilledchicken',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['grilledwrap'] = {
+            label = 'grilledwrap',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['growler'] = {
+            label = 'growler',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['gsrtestkit'] = {
+            label = 'gsrtestkit',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['hackerdevice'] = {
+            label = 'hackerdevice',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['hacking_device'] = {
+            label = 'hacking_device',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['ham'] = {
+            label = 'ham',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['hamburger'] = {
+            label = 'hamburger',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['hamcheesesandwich'] = {
+            label = 'hamcheesesandwich',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['hammer'] = {
+            label = 'hammer',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['hamsandwich'] = {
+            label = 'hamsandwich',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['handcuffs'] = {
+            label = 'handcuffs',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['handgun'] = {
+            label = 'handgun',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['hardrive'] = {
+            label = 'hardrive',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['harness'] = {
+            label = 'harness',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['hashbrown'] = {
+            label = 'hashbrown',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['headlights'] = {
+            label = 'headlights',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['head_bag'] = {
+            label = 'head_bag',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['hiqualitysoil'] = {
+            label = 'hiqualitysoil',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['hiqualnutrients'] = {
+            label = 'hiqualnutrients',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['hlabs_chemicals'] = {
+            label = 'hlabs_chemicals',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['hlabs_formula'] = {
+            label = 'hlabs_formula',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['hood'] = {
+            label = 'hood',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['horn'] = {
+            label = 'horn',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['hornburger'] = {
+            label = 'hornburger',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['hornsandwich'] = {
+            label = 'hornsandwich',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['hotdog'] = {
+            label = 'hotdog',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['hotdogbun'] = {
+            label = 'hotdogbun',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['hotdogmeat'] = {
+            label = 'hotdogmeat',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['housered'] = {
+            label = 'housered',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['housewhite'] = {
+            label = 'housewhite',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['huntingbait'] = {
+            label = 'huntingbait',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['huntinglicense'] = {
+            label = 'huntinglicense',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['hunting_ammo'] = {
+            label = 'hunting_ammo',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['hunting_license'] = {
+            label = 'hunting_license',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['hunting_rifle'] = {
+            label = 'hunting_rifle',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['hydrochloricacid'] = {
+            label = 'hydrochloricacid',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['hydrogen'] = {
+            label = 'hydrogen',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['ibuprofen'] = {
+            label = 'ibuprofen',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['ice'] = {
+            label = 'ice',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['icecake'] = {
+            label = 'icecake',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['icenugget'] = {
+            label = 'icenugget',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['ice_2'] = {
+            label = 'ice_2',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['icream'] = {
+            label = 'icream',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['id_card'] = {
+            label = 'id_card',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['ifaks'] = {
+            label = 'ifaks',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['iflag'] = {
+            label = 'iflag',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['image'] = {
+            label = 'image',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['imodium'] = {
+            label = 'imodium',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['instantcoffee'] = {
+            label = 'instantcoffee',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['internals'] = {
+            label = 'internals',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['iphone'] = {
+            label = 'iphone',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['iron'] = {
+            label = 'iron',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['ironore'] = {
+            label = 'ironore',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['ironoxide'] = {
+            label = 'ironoxide',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['jarritos_lime'] = {
+            label = 'jarritos_lime',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['jarritos_mandarin'] = {
+            label = 'jarritos_mandarin',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['jarritos_strawberry'] = {
+            label = 'jarritos_strawberry',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['jelly'] = {
+            label = 'jelly',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['jerry_can'] = {
+            label = 'jerry_can',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['jimeggs'] = {
+            label = 'jimeggs',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['jimsausages'] = {
+            label = 'jimsausages',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['joint'] = {
+            label = 'joint',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['jollyranchers'] = {
+            label = 'jollyranchers',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['jolly_ranchers'] = {
+            label = 'jolly_ranchers',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['junkdrink'] = {
+            label = 'junkdrink',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['kamikaze'] = {
+            label = 'kamikaze',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['keycard'] = {
+            label = 'keycard',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['kingcrab-platter'] = {
+            label = 'kingcrab-platter',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['lab'] = {
+            label = 'lab',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['labcard'] = {
+            label = 'labcard',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['labkey'] = {
+            label = 'labkey',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['lacedweed'] = {
+            label = 'lacedweed',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['laptop'] = {
+            label = 'laptop',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['laptop_purple'] = {
+            label = 'laptop_purple',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['latte'] = {
+            label = 'latte',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['lawyerpass'] = {
+            label = 'lawyerpass',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['lean'] = {
+            label = 'lean',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['lemon'] = {
+            label = 'lemon',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['lemonade'] = {
+            label = 'lemonade',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['lemonskunk_leaf'] = {
+            label = 'lemonskunk_leaf',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['lemonskunk_seed'] = {
+            label = 'lemonskunk_seed',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['lemonskunk_trimmed_bud'] = {
+            label = 'lemonskunk_trimmed_bud',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['lemonskunk_untrimmed_bud'] = {
+            label = 'lemonskunk_untrimmed_bud',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['lemon_crate'] = {
+            label = 'lemon_crate',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['lettuce'] = {
+            label = 'lettuce',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['lettuce_crate'] = {
+            label = 'lettuce_crate',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['lettuce_seed'] = {
+            label = 'lettuce_seed',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['lighter'] = {
+            label = 'lighter',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['lighting'] = {
+            label = 'lighting',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['lime'] = {
+            label = 'lime',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['lime_crate'] = {
+            label = 'lime_crate',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['linguado'] = {
+            label = 'linguado',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['liquidsulphur'] = {
+            label = 'liquidsulphur',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['liquid_sulfur'] = {
+            label = 'liquid_sulfur',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['liquor'] = {
+            label = 'liquor',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['lithium'] = {
+            label = 'lithium',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['lithiumbarrel'] = {
+            label = 'lithiumbarrel',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['livery'] = {
+            label = 'livery',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['loanofficekey'] = {
+            label = 'loanofficekey',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['lobster-thermidor'] = {
+            label = 'lobster-thermidor',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['lockpick'] = {
+            label = 'lockpick',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['logger'] = {
+            label = 'logger',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['longisland'] = {
+            label = 'longisland',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['loperamide'] = {
+            label = 'loperamide',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['lowqualitysoil'] = {
+            label = 'lowqualitysoil',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['lowqualnutrients'] = {
+            label = 'lowqualnutrients',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['lsd'] = {
+            label = 'lsd',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['lsdtab'] = {
+            label = 'lsdtab',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['maccheese'] = {
+            label = 'maccheese',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['magic_mushroom'] = {
+            label = 'magic_mushroom',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['maize'] = {
+            label = 'maize',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['maize_sack'] = {
+            label = 'maize_sack',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['maize_seed'] = {
+            label = 'maize_seed',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['margarita'] = {
+            label = 'margarita',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['margherita'] = {
+            label = 'margherita',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['marijuanagrowinglicense'] = {
+            label = 'marijuanagrowinglicense',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['marinara'] = {
+            label = 'marinara',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['markedbills'] = {
+            label = 'markedbills',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['mastercard'] = {
+            label = 'mastercard',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['matcha'] = {
+            label = 'matcha',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['meat'] = {
+            label = 'meat',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['meatball'] = {
+            label = 'meatball',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['meat_boar'] = {
+            label = 'meat_boar',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['meat_chicken'] = {
+            label = 'meat_chicken',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['meat_chickenhawk'] = {
+            label = 'meat_chickenhawk',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['meat_cormorant'] = {
+            label = 'meat_cormorant',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['meat_cougar'] = {
+            label = 'meat_cougar',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['meat_cow'] = {
+            label = 'meat_cow',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['meat_coyote'] = {
+            label = 'meat_coyote',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['meat_deer'] = {
+            label = 'meat_deer',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['meat_dolphin'] = {
+            label = 'meat_dolphin',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['meat_mtlion'] = {
+            label = 'meat_mtlion',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['meat_pig'] = {
+            label = 'meat_pig',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['meat_rabbit'] = {
+            label = 'meat_rabbit',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['meat_rat'] = {
+            label = 'meat_rat',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['meat_shark'] = {
+            label = 'meat_shark',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['meat_stingray'] = {
+            label = 'meat_stingray',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['meat_whale'] = {
+            label = 'meat_whale',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['mechanic_tools'] = {
+            label = 'mechanic_tools',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['mechboard'] = {
+            label = 'mechboard',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['medbag'] = {
+            label = 'medbag',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['medfruits'] = {
+            label = 'medfruits',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['medqualnutrients'] = {
+            label = 'medqualnutrients',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['megaphone'] = {
+            label = 'megaphone',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['metalscrap'] = {
+            label = 'metalscrap',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['meth'] = {
+            label = 'meth',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['methalmine2'] = {
+            label = 'methalmine2',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['methbrick'] = {
+            label = 'methbrick',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['methylamine'] = {
+            label = 'methylamine',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['methylaminebarrel'] = {
+            label = 'methylaminebarrel',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['meth_baggy'] = {
+            label = 'meth_baggy',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['meth_tray'] = {
+            label = 'meth_tray',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['meth_tray2'] = {
+            label = 'meth_tray2',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['mg_ammo'] = {
+            label = 'mg_ammo',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['midori'] = {
+            label = 'midori',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['milk'] = {
+            label = 'milk',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['milking_pail'] = {
+            label = 'milking_pail',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['milk_crate'] = {
+            label = 'milk_crate',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['milk_pail'] = {
+            label = 'milk_pail',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['miningdrill'] = {
+            label = 'miningdrill',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['mininglaser'] = {
+            label = 'mininglaser',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['miniradio'] = {
+            label = 'miniradio',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['mint'] = {
+            label = 'mint',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['mirror'] = {
+            label = 'mirror',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['miso'] = {
+            label = 'miso',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['mochameow'] = {
+            label = 'mochameow',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['mochiblue'] = {
+            label = 'mochiblue',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['mochigreen'] = {
+            label = 'mochigreen',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['mochiorange'] = {
+            label = 'mochiorange',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['mochipink'] = {
+            label = 'mochipink',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['moldysammy'] = {
+            label = 'moldysammy',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['moneybag'] = {
+            label = 'moneybag',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['monobloc'] = {
+            label = 'monobloc',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['moonshine'] = {
+            label = 'moonshine',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['moonshine_distill'] = {
+            label = 'moonshine_distill',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['moonshine_ferm'] = {
+            label = 'moonshine_ferm',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['moonshine_mash'] = {
+            label = 'moonshine_mash',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['mozz'] = {
+            label = 'mozz',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['multitool'] = {
+            label = 'multitool',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['muriatic_acid'] = {
+            label = 'muriatic_acid',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['murioticacid'] = {
+            label = 'murioticacid',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['murioticacidbarrel'] = {
+            label = 'murioticacidbarrel',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['mushroom'] = {
+            label = 'mushroom',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['mushrooms'] = {
+            label = 'mushrooms',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['mushroom_sack'] = {
+            label = 'mushroom_sack',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['mushroom_seed'] = {
+            label = 'mushroom_seed',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['nachos'] = {
+            label = 'nachos',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['newspaper'] = {
+            label = 'newspaper',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['nikon'] = {
+            label = 'nikon',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['nitrogen'] = {
+            label = 'nitrogen',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['nitrous'] = {
+            label = 'nitrous',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['noodlebowl'] = {
+            label = 'noodlebowl',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['noodles'] = {
+            label = 'noodles',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['nori'] = {
+            label = 'nori',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['northernlights_leaf'] = {
+            label = 'northernlights_leaf',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['northernlights_seed'] = {
+            label = 'northernlights_seed',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['northernlights_trimmed_bud'] = {
+            label = 'northernlights_trimmed_bud',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['northernlights_untrimmed_bud'] = {
+            label = 'northernlights_untrimmed_bud',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['nos'] = {
+            label = 'nos',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['noscolour'] = {
+            label = 'noscolour',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['nplate'] = {
+            label = 'nplate',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['nvg'] = {
+            label = 'nvg',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['ogkush_leaf'] = {
+            label = 'ogkush_leaf',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['ogkush_seed'] = {
+            label = 'ogkush_seed',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['ogkush_trimmed_bud'] = {
+            label = 'ogkush_trimmed_bud',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['ogkush_untrimmed_bud'] = {
+            label = 'ogkush_untrimmed_bud',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['olives'] = {
+            label = 'olives',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['opium'] = {
+            label = 'opium',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['orange'] = {
+            label = 'orange',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['orange_crate'] = {
+            label = 'orange_crate',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['orangotang'] = {
+            label = 'orangotang',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['oxy'] = {
+            label = 'oxy',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['oxygen'] = {
+            label = 'oxygen',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['o_anchovy'] = {
+            label = 'o_anchovy',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['o_codfish'] = {
+            label = 'o_codfish',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['o_giant_seabass'] = {
+            label = 'o_giant_seabass',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['o_grouper'] = {
+            label = 'o_grouper',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['o_kingcrab'] = {
+            label = 'o_kingcrab',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['o_lobster'] = {
+            label = 'o_lobster',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['o_mackerel'] = {
+            label = 'o_mackerel',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['o_mahi_mahi'] = {
+            label = 'o_mahi_mahi',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['o_pacific_halibut'] = {
+            label = 'o_pacific_halibut',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['o_pacific_sardine'] = {
+            label = 'o_pacific_sardine',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['o_rainbow_trout'] = {
+            label = 'o_rainbow_trout',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['o_redfish'] = {
+            label = 'o_redfish',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['o_red_snapper'] = {
+            label = 'o_red_snapper',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['o_spot_prawn'] = {
+            label = 'o_spot_prawn',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['o_stingray'] = {
+            label = 'o_stingray',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['o_white_seabass'] = {
+            label = 'o_white_seabass',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['o_yellowfin_tuna'] = {
+            label = 'o_yellowfin_tuna',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['packagedcoca'] = {
+            label = 'packagedcoca',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['packagedmeth'] = {
+            label = 'packagedmeth',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['packagedweed'] = {
+            label = 'packagedweed',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['painkillers'] = {
+            label = 'painkillers',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['parachute'] = {
+            label = 'parachute',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['paramedic_bag'] = {
+            label = 'paramedic_bag',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['pasta'] = {
+            label = 'pasta',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['pawcakes'] = {
+            label = 'pawcakes',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['pdbadge'] = {
+            label = 'pdbadge',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['peach'] = {
+            label = 'peach',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['peach_crate'] = {
+            label = 'peach_crate',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['pearlstakeout'] = {
+            label = 'pearlstakeout',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['peixegato'] = {
+            label = 'peixegato',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['peptobismol'] = {
+            label = 'peptobismol',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['pescatore'] = {
+            label = 'pescatore',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['peyote_button'] = {
+            label = 'peyote_button',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['peyote_seed'] = {
+            label = 'peyote_seed',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['phone'] = {
+            label = 'phone',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['pickaxe'] = {
+            label = 'pickaxe',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['pickle'] = {
+            label = 'pickle',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['pickleburger'] = {
+            label = 'pickleburger',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['pickle_raw'] = {
+            label = 'pickle_raw',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['picnictable'] = {
+            label = 'picnictable',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['piecrust'] = {
+            label = 'piecrust',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['pigpelt'] = {
+            label = 'pigpelt',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['pilot_license'] = {
+            label = 'pilot_license',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['pinacolada'] = {
+            label = 'pinacolada',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['pineapple'] = {
+            label = 'pineapple',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['pineapplecake'] = {
+            label = 'pineapplecake',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['pineapple_crate'] = {
+            label = 'pineapple_crate',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['pineapple_seed'] = {
+            label = 'pineapple_seed',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['pinejuice'] = {
+            label = 'pinejuice',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['pinkphone'] = {
+            label = 'pinkphone',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['pisswaser1'] = {
+            label = 'pisswaser1',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['pisswaser2'] = {
+            label = 'pisswaser2',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['pisswaser3'] = {
+            label = 'pisswaser3',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['pistol_ammo'] = {
+            label = 'pistol_ammo',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['pistol_extendedclip'] = {
+            label = 'pistol_extendedclip',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['pistol_suppressor'] = {
+            label = 'pistol_suppressor',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['pizzabox'] = {
+            label = 'pizzabox',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['pizzadough'] = {
+            label = 'pizzadough',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['plantpot'] = {
+            label = 'plantpot',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['plastic'] = {
+            label = 'plastic',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['plasticbag'] = {
+            label = 'plasticbag',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['plate'] = {
+            label = 'plate',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['polbag'] = {
+            label = 'polbag',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['police_stormram'] = {
+            label = 'police_stormram',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['popdonut'] = {
+            label = 'popdonut',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['popicecream'] = {
+            label = 'popicecream',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['poppy'] = {
+            label = 'poppy',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['popsbag'] = {
+            label = 'popsbag',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['portablecopier'] = {
+            label = 'portablecopier',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['potato'] = {
+            label = 'potato',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['potatoes'] = {
+            label = 'potatoes',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['potato_raw'] = {
+            label = 'potato_raw',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['potato_sack'] = {
+            label = 'potato_sack',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['potato_seed'] = {
+            label = 'potato_seed',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['powerbank'] = {
+            label = 'powerbank',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['pressure'] = {
+            label = 'pressure',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['printerdocument'] = {
+            label = 'printerdocument',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['proscuttio'] = {
+            label = 'proscuttio',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['prosecco'] = {
+            label = 'prosecco',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['pseudoefedrine'] = {
+            label = 'pseudoefedrine',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['pseudophederine'] = {
+            label = 'pseudophederine',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['purrito'] = {
+            label = 'purrito',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['pwasher'] = {
+            label = 'pwasher',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['quantum_cpu'] = {
+            label = 'quantum_cpu',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['rabbitfur'] = {
+            label = 'rabbitfur',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['rabbit_foot'] = {
+            label = 'rabbit_foot',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['radio'] = {
+            label = 'radio',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['radioscanner'] = {
+            label = 'radioscanner',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['raia'] = {
+            label = 'raia',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['rainbowbelts_leaf'] = {
+            label = 'rainbowbelts_leaf',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['rainbowbelts_seed'] = {
+            label = 'rainbowbelts_seed',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['rainbowbelts_trimmed_bud'] = {
+            label = 'rainbowbelts_trimmed_bud',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['rainbowbelts_untrimmed_bud'] = {
+            label = 'rainbowbelts_untrimmed_bud',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['raine'] = {
+            label = 'raine',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['ramen'] = {
+            label = 'ramen',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['ranchwrap'] = {
+            label = 'ranchwrap',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['rawbacon'] = {
+            label = 'rawbacon',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['rawhotdog'] = {
+            label = 'rawhotdog',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['rawsausage'] = {
+            label = 'rawsausage',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['redbin'] = {
+            label = 'redbin',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['rededepescanivel1'] = {
+            label = 'rededepescanivel1',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['rededepescanivel2'] = {
+            label = 'rededepescanivel2',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['rededepescanivel3'] = {
+            label = 'rededepescanivel3',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['rededepescanivel4'] = {
+            label = 'rededepescanivel4',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['redsulfurbarrel'] = {
+            label = 'redsulfurbarrel',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['redsulphur'] = {
+            label = 'redsulphur',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['redwoodcigs'] = {
+            label = 'redwoodcigs',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['redwoodcigs2'] = {
+            label = 'redwoodcigs2',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['red_sulfur'] = {
+            label = 'red_sulfur',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['rentalpapers'] = {
+            label = 'rentalpapers',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['repairkit'] = {
+            label = 'repairkit',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['rice'] = {
+            label = 'rice',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['rifle_ammo'] = {
+            label = 'rifle_ammo',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['rifle_drummag'] = {
+            label = 'rifle_drummag',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['rim'] = {
+            label = 'rim',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['rims'] = {
+            label = 'rims',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['roadblock'] = {
+            label = 'roadblock',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['robalo'] = {
+            label = 'robalo',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['rolex'] = {
+            label = 'rolex',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['rollcage'] = {
+            label = 'rollcage',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['rolling_paper'] = {
+            label = 'rolling_paper',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['roof'] = {
+            label = 'roof',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['rope'] = {
+            label = 'rope',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['rosso'] = {
+            label = 'rosso',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['rottenapple'] = {
+            label = 'rottenapple',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['rplate'] = {
+            label = 'rplate',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['rubber'] = {
+            label = 'rubber',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['ruben'] = {
+            label = 'ruben',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['ruby'] = {
+            label = 'ruby',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['ruby_earring'] = {
+            label = 'ruby_earring',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['ruby_earring_silver'] = {
+            label = 'ruby_earring_silver',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['ruby_necklace'] = {
+            label = 'ruby_necklace',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['ruby_necklace_silver'] = {
+            label = 'ruby_necklace_silver',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['ruby_ring'] = {
+            label = 'ruby_ring',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['ruby_ring_silver'] = {
+            label = 'ruby_ring_silver',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['rum'] = {
+            label = 'rum',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['r_black_crappie'] = {
+            label = 'r_black_crappie',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['r_bluegill'] = {
+            label = 'r_bluegill',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['r_brown_trout'] = {
+            label = 'r_brown_trout',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['r_catfish'] = {
+            label = 'r_catfish',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['r_chinook_salmon'] = {
+            label = 'r_chinook_salmon',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['r_coho_salmon'] = {
+            label = 'r_coho_salmon',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['r_common_carp'] = {
+            label = 'r_common_carp',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['r_cutthroat_trout'] = {
+            label = 'r_cutthroat_trout',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['r_largemouth_bass'] = {
+            label = 'r_largemouth_bass',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['r_perch'] = {
+            label = 'r_perch',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['r_striped_bass'] = {
+            label = 'r_striped_bass',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['r_talapia'] = {
+            label = 'r_talapia',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['r_white_sturgeon'] = {
+            label = 'r_white_sturgeon',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['sacid'] = {
+            label = 'sacid',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['safe_key'] = {
+            label = 'safe_key',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['sake'] = {
+            label = 'sake',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['salami'] = {
+            label = 'salami',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['salmao'] = {
+            label = 'salmao',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['salmaocozido'] = {
+            label = 'salmaocozido',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['salmon'] = {
+            label = 'salmon',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['samsungphone'] = {
+            label = 'samsungphone',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['sandwich'] = {
+            label = 'sandwich',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['sangria'] = {
+            label = 'sangria',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['sapphire'] = {
+            label = 'sapphire',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['sapphire_earring'] = {
+            label = 'sapphire_earring',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['sapphire_earring_silver'] = {
+            label = 'sapphire_earring_silver',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['sapphire_necklace'] = {
+            label = 'sapphire_necklace',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['sapphire_necklace_silver'] = {
+            label = 'sapphire_necklace_silver',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['sapphire_ring'] = {
+            label = 'sapphire_ring',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['sapphire_ring_silver'] = {
+            label = 'sapphire_ring_silver',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['sardinha'] = {
+            label = 'sardinha',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['sardinhacozida'] = {
+            label = 'sardinhacozida',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['sauce'] = {
+            label = 'sauce',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['sausage'] = {
+            label = 'sausage',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['sausageeggs'] = {
+            label = 'sausageeggs',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['sbullet'] = {
+            label = 'sbullet',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['scale'] = {
+            label = 'scale',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['schnapps'] = {
+            label = 'schnapps',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['scissors'] = {
+            label = 'scissors',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['scotch'] = {
+            label = 'scotch',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['screwdriver'] = {
+            label = 'screwdriver',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['screwdriverset'] = {
+            label = 'screwdriverset',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['seat'] = {
+            label = 'seat',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['security_card_01'] = {
+            label = 'security_card_01',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['security_card_02'] = {
+            label = 'security_card_02',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['security_card_05'] = {
+            label = 'security_card_05',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['shonen'] = {
+            label = 'shonen',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['shotgun_ammo'] = {
+            label = 'shotgun_ammo',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['shreddedpork'] = {
+            label = 'shreddedpork',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['shrimppasta'] = {
+            label = 'shrimppasta',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['silverchain'] = {
+            label = 'silverchain',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['silverearring'] = {
+            label = 'silverearring',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['silveringot'] = {
+            label = 'silveringot',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['silverore'] = {
+            label = 'silverore',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['silver_earring'] = {
+            label = 'silver_earring',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['silver_ring'] = {
+            label = 'silver_ring',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['simcard'] = {
+            label = 'simcard',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['skateboard'] = {
+            label = 'skateboard',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['skin_boar'] = {
+            label = 'skin_boar',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['skin_cougar'] = {
+            label = 'skin_cougar',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['skin_cow'] = {
+            label = 'skin_cow',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['skin_coyote'] = {
+            label = 'skin_coyote',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['skin_deer'] = {
+            label = 'skin_deer',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['skin_dolphin'] = {
+            label = 'skin_dolphin',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['skin_mtlion'] = {
+            label = 'skin_mtlion',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['skin_pig'] = {
+            label = 'skin_pig',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['skin_rabbit'] = {
+            label = 'skin_rabbit',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['skin_rat'] = {
+            label = 'skin_rat',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['skin_sasquatch'] = {
+            label = 'skin_sasquatch',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['skin_shark'] = {
+            label = 'skin_shark',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['skin_stingray'] = {
+            label = 'skin_stingray',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['skin_whale'] = {
+            label = 'skin_whale',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['skirts'] = {
+            label = 'skirts',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['slicedapple'] = {
+            label = 'slicedapple',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['slicedtomato'] = {
+            label = 'slicedtomato',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['sliders'] = {
+            label = 'sliders',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['small-scale'] = {
+            label = 'small-scale',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['smg_ammo'] = {
+            label = 'smg_ammo',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['smg_flashlight'] = {
+            label = 'smg_flashlight',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['smg_scope'] = {
+            label = 'smg_scope',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['snikkel_candy'] = {
+            label = 'snikkel_candy',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['snowball'] = {
+            label = 'snowball',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['snspistol_part_1'] = {
+            label = 'snspistol_part_1',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['snspistol_part_2'] = {
+            label = 'snspistol_part_2',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['snspistol_part_3'] = {
+            label = 'snspistol_part_3',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['sodasyrup'] = {
+            label = 'sodasyrup',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['sodiumbicarbonate'] = {
+            label = 'sodiumbicarbonate',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['sodiumhydroxide'] = {
+            label = 'sodiumhydroxide',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['sodiumhydroxidebarrel'] = {
+            label = 'sodiumhydroxidebarrel',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['sodium_hydroxide'] = {
+            label = 'sodium_hydroxide',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['spanner'] = {
+            label = 'spanner',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['spikestrip'] = {
+            label = 'spikestrip',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['splate'] = {
+            label = 'splate',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['spoiler'] = {
+            label = 'spoiler',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['spray'] = {
+            label = 'spray',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['spraycan'] = {
+            label = 'spraycan',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['spray_remover'] = {
+            label = 'spray_remover',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['sprunk'] = {
+            label = 'sprunk',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['sprunklight'] = {
+            label = 'sprunklight',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['squarereader'] = {
+            label = 'squarereader',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['squid'] = {
+            label = 'squid',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['squid2'] = {
+            label = 'squid2',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['standard_cpu'] = {
+            label = 'standard_cpu',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['steakburger'] = {
+            label = 'steakburger',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['steel'] = {
+            label = 'steel',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['stickynote'] = {
+            label = 'stickynote',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['stolencomputer'] = {
+            label = 'stolencomputer',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['stolenmicro'] = {
+            label = 'stolenmicro',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['stolenstereo'] = {
+            label = 'stolenstereo',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['stolentv'] = {
+            label = 'stolentv',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['stone'] = {
+            label = 'stone',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['strawberry'] = {
+            label = 'strawberry',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['strawberryfloat'] = {
+            label = 'strawberryfloat',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['strawberry_crate'] = {
+            label = 'strawberry_crate',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['strawberry_seed'] = {
+            label = 'strawberry_seed',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['strawdaquiri'] = {
+            label = 'strawdaquiri',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['strawmargarita'] = {
+            label = 'strawmargarita',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['stuffedpotato'] = {
+            label = 'stuffedpotato',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['sugar'] = {
+            label = 'sugar',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['surgicalkit'] = {
+            label = 'surgicalkit',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['surimi'] = {
+            label = 'surimi',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['suspension1'] = {
+            label = 'suspension1',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['suspension2'] = {
+            label = 'suspension2',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['suspension3'] = {
+            label = 'suspension3',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['suspension4'] = {
+            label = 'suspension4',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['tablet'] = {
+            label = 'tablet',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['tacos'] = {
+            label = 'tacos',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['tacoshell'] = {
+            label = 'tacoshell',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['taco_beef'] = {
+            label = 'taco_beef',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['taco_chicken'] = {
+            label = 'taco_chicken',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['taco_fish'] = {
+            label = 'taco_fish',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['teabag'] = {
+            label = 'teabag',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['tequila'] = {
+            label = 'tequila',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['tf-takeout'] = {
+            label = 'tf-takeout',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['tf_tostada'] = {
+            label = 'tf_tostada',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['thermal_katana_orange'] = {
+            label = 'thermal_katana_orange',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['thermite'] = {
+            label = 'thermite',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['ticket'] = {
+            label = 'ticket',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['ticketbook'] = {
+            label = 'ticketbook',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['tint_supplies'] = {
+            label = 'tint_supplies',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['tiramisu'] = {
+            label = 'tiramisu',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['tires'] = {
+            label = 'tires',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['title'] = {
+            label = 'title',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['toastbacon'] = {
+            label = 'toastbacon',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['tofu'] = {
+            label = 'tofu',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['tomato'] = {
+            label = 'tomato',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['tomato_crate'] = {
+            label = 'tomato_crate',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['tomato_seed'] = {
+            label = 'tomato_seed',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['toolbox'] = {
+            label = 'toolbox',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['tostada'] = {
+            label = 'tostada',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['tostadashell'] = {
+            label = 'tostadashell',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['tosti'] = {
+            label = 'tosti',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['tots'] = {
+            label = 'tots',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['transmission1'] = {
+            label = 'transmission1',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['transmission2'] = {
+            label = 'transmission2',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['transmission3'] = {
+            label = 'transmission3',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['tripleburger'] = {
+            label = 'tripleburger',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['triplesec'] = {
+            label = 'triplesec',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['trowel'] = {
+            label = 'trowel',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['tunasandwich'] = {
+            label = 'tunasandwich',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['tunerchip'] = {
+            label = 'tunerchip',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['turbo'] = {
+            label = 'turbo',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['twerks_candy'] = {
+            label = 'twerks_candy',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['tylenol'] = {
+            label = 'tylenol',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['tyre_bennys'] = {
+            label = 'tyre_bennys',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['tyre_bespoke'] = {
+            label = 'tyre_bespoke',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['tyre_f1'] = {
+            label = 'tyre_f1',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['tyre_highend'] = {
+            label = 'tyre_highend',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['tyre_lowrider'] = {
+            label = 'tyre_lowrider',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['tyre_motorcycle'] = {
+            label = 'tyre_motorcycle',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['tyre_muscle'] = {
+            label = 'tyre_muscle',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['tyre_offroad'] = {
+            label = 'tyre_offroad',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['tyre_sport'] = {
+            label = 'tyre_sport',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['tyre_street'] = {
+            label = 'tyre_street',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['tyre_suv'] = {
+            label = 'tyre_suv',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['tyre_tuner'] = {
+            label = 'tyre_tuner',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['umbrella'] = {
+            label = 'umbrella',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['ump_45'] = {
+            label = 'ump_45',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['uncut_diamond'] = {
+            label = 'uncut_diamond',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['uncut_emerald'] = {
+            label = 'uncut_emerald',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['uncut_ruby'] = {
+            label = 'uncut_ruby',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['uncut_sapphire'] = {
+            label = 'uncut_sapphire',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['underglow_controller'] = {
+            label = 'underglow_controller',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['upnatom-coke'] = {
+            label = 'upnatom-coke',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['upnatom-fries'] = {
+            label = 'upnatom-fries',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['upnatom-rings'] = {
+            label = 'upnatom-rings',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['upnatom-shake'] = {
+            label = 'upnatom-shake',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['upnatombag'] = {
+            label = 'upnatombag',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['usb_device'] = {
+            label = 'usb_device',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['usb_purple'] = {
+            label = 'usb_purple',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['uwu-cafe-box'] = {
+            label = 'uwu-cafe-box',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['uwu_bubbletea'] = {
+            label = 'uwu_bubbletea',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['v10engine'] = {
+            label = 'v10engine',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['v12engine'] = {
+            label = 'v12engine',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['v8engine'] = {
+            label = 'v8engine',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['vegetariana'] = {
+            label = 'vegetariana',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['veggiewrap'] = {
+            label = 'veggiewrap',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['vehiclecoupon'] = {
+            label = 'vehiclecoupon',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['visacard'] = {
+            label = 'visacard',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['vodka'] = {
+            label = 'vodka',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['vodka_bootleg'] = {
+            label = 'vodka_bootleg',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['vodka_distill'] = {
+            label = 'vodka_distill',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['vodka_ferm'] = {
+            label = 'vodka_ferm',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['vodka_mash'] = {
+            label = 'vodka_mash',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['voodoo'] = {
+            label = 'voodoo',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['walkstick'] = {
+            label = 'walkstick',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['water'] = {
+            label = 'water',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['watering_can'] = {
+            label = 'watering_can',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['watering_can_full'] = {
+            label = 'watering_can_full',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['water_bottle'] = {
+            label = 'water_bottle',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weaponthreading'] = {
+            label = 'weaponthreading',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapontint_army'] = {
+            label = 'weapontint_army',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapontint_black'] = {
+            label = 'weapontint_black',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapontint_gold'] = {
+            label = 'weapontint_gold',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapontint_green'] = {
+            label = 'weapontint_green',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapontint_lspd'] = {
+            label = 'weapontint_lspd',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapontint_orange'] = {
+            label = 'weapontint_orange',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapontint_pink'] = {
+            label = 'weapontint_pink',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapontint_plat'] = {
+            label = 'weapontint_plat',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_357_magnum'] = {
+            label = 'weapon_357_magnum',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_advancedrifle'] = {
+            label = 'weapon_advancedrifle',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['WEAPON_AK47NEON'] = {
+            label = 'WEAPON_AK47NEON',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_ak47_orbit'] = {
+            label = 'weapon_ak47_orbit',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_appistol'] = {
+            label = 'weapon_appistol',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_assaultrifle'] = {
+            label = 'weapon_assaultrifle',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_assaultrifle_mk2'] = {
+            label = 'weapon_assaultrifle_mk2',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_assaultshotgun'] = {
+            label = 'weapon_assaultshotgun',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_assaultsmg'] = {
+            label = 'weapon_assaultsmg',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_autoshotgun'] = {
+            label = 'weapon_autoshotgun',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['WEAPON_AWP'] = {
+            label = 'WEAPON_AWP',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_ball'] = {
+            label = 'weapon_ball',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_bat'] = {
+            label = 'weapon_bat',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_battleaxe'] = {
+            label = 'weapon_battleaxe',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_bottle'] = {
+            label = 'weapon_bottle',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_briefcase'] = {
+            label = 'weapon_briefcase',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_briefcase2'] = {
+            label = 'weapon_briefcase2',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_bullpuprifle'] = {
+            label = 'weapon_bullpuprifle',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_bullpuprifle_mk2'] = {
+            label = 'weapon_bullpuprifle_mk2',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_bullpupshotgun'] = {
+            label = 'weapon_bullpupshotgun',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_bzgas'] = {
+            label = 'weapon_bzgas',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_c4'] = {
+            label = 'weapon_c4',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_carbinerifle'] = {
+            label = 'weapon_carbinerifle',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_carbinerifle_mk2'] = {
+            label = 'weapon_carbinerifle_mk2',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_ceramicpistol'] = {
+            label = 'weapon_ceramicpistol',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_combatmg'] = {
+            label = 'weapon_combatmg',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_combatmg_mk2'] = {
+            label = 'weapon_combatmg_mk2',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_combatpdw'] = {
+            label = 'weapon_combatpdw',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_combatpistol'] = {
+            label = 'weapon_combatpistol',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_combatshotgun'] = {
+            label = 'weapon_combatshotgun',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_combat_knife'] = {
+            label = 'weapon_combat_knife',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_compactlauncher'] = {
+            label = 'weapon_compactlauncher',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_compactrifle'] = {
+            label = 'weapon_compactrifle',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_crowbar'] = {
+            label = 'weapon_crowbar',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_dagger'] = {
+            label = 'weapon_dagger',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_dbshotgun'] = {
+            label = 'weapon_dbshotgun',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_doubleaction'] = {
+            label = 'weapon_doubleaction',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_fireextinguisher'] = {
+            label = 'weapon_fireextinguisher',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_firework'] = {
+            label = 'weapon_firework',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_flare'] = {
+            label = 'weapon_flare',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_flaregun'] = {
+            label = 'weapon_flaregun',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_flashlight'] = {
+            label = 'weapon_flashlight',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_gadgetpistol'] = {
+            label = 'weapon_gadgetpistol',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_garbagebag'] = {
+            label = 'weapon_garbagebag',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_gas'] = {
+            label = 'weapon_gas',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_golfclub'] = {
+            label = 'weapon_golfclub',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_goodnightbat'] = {
+            label = 'weapon_goodnightbat',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_grenade'] = {
+            label = 'weapon_grenade',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_grenadelauncher'] = {
+            label = 'weapon_grenadelauncher',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_grenadelauncher_smoke'] = {
+            label = 'weapon_grenadelauncher_smoke',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_gusenberg'] = {
+            label = 'weapon_gusenberg',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_hammer'] = {
+            label = 'weapon_hammer',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_handcuffs'] = {
+            label = 'weapon_handcuffs',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_hatchet'] = {
+            label = 'weapon_hatchet',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_hazardcan'] = {
+            label = 'weapon_hazardcan',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_heavypistol'] = {
+            label = 'weapon_heavypistol',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_heavyshotgun'] = {
+            label = 'weapon_heavyshotgun',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_heavysniper'] = {
+            label = 'weapon_heavysniper',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_heavysniper_mk2'] = {
+            label = 'weapon_heavysniper_mk2',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_hominglauncher'] = {
+            label = 'weapon_hominglauncher',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_judge'] = {
+            label = 'weapon_judge',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_knife'] = {
+            label = 'weapon_knife',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_knuckle'] = {
+            label = 'weapon_knuckle',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_license'] = {
+            label = 'weapon_license',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_lovehate'] = {
+            label = 'weapon_lovehate',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['WEAPON_M4A4'] = {
+            label = 'WEAPON_M4A4',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_machete'] = {
+            label = 'weapon_machete',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_machinepistol'] = {
+            label = 'weapon_machinepistol',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_marksmanpistol'] = {
+            label = 'weapon_marksmanpistol',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_marksmanrifle'] = {
+            label = 'weapon_marksmanrifle',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_marksmanrifle_mk2'] = {
+            label = 'weapon_marksmanrifle_mk2',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_mg'] = {
+            label = 'weapon_mg',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_microsmg'] = {
+            label = 'weapon_microsmg',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_militaryrifle'] = {
+            label = 'weapon_militaryrifle',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_minigun'] = {
+            label = 'weapon_minigun',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_minismg'] = {
+            label = 'weapon_minismg',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_molotov'] = {
+            label = 'weapon_molotov',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_navyrevolver'] = {
+            label = 'weapon_navyrevolver',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_nightstick'] = {
+            label = 'weapon_nightstick',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_petrolcan'] = {
+            label = 'weapon_petrolcan',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_pipebomb'] = {
+            label = 'weapon_pipebomb',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_pistol'] = {
+            label = 'weapon_pistol',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_pistol50'] = {
+            label = 'weapon_pistol50',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_pistol_mk2'] = {
+            label = 'weapon_pistol_mk2',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_poolcue'] = {
+            label = 'weapon_poolcue',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_proximitymine'] = {
+            label = 'weapon_proximitymine',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_proxmine'] = {
+            label = 'weapon_proxmine',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_pumpshotgun'] = {
+            label = 'weapon_pumpshotgun',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_pumpshotgun_mk2'] = {
+            label = 'weapon_pumpshotgun_mk2',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_railgun'] = {
+            label = 'weapon_railgun',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_raycarbine'] = {
+            label = 'weapon_raycarbine',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_rayminigun'] = {
+            label = 'weapon_rayminigun',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_raypistol'] = {
+            label = 'weapon_raypistol',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_remotesniper'] = {
+            label = 'weapon_remotesniper',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_revolver'] = {
+            label = 'weapon_revolver',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_revolver_mk2'] = {
+            label = 'weapon_revolver_mk2',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_rpg'] = {
+            label = 'weapon_rpg',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_sawnoffshotgun'] = {
+            label = 'weapon_sawnoffshotgun',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_smg'] = {
+            label = 'weapon_smg',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_smg_mk2'] = {
+            label = 'weapon_smg_mk2',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_sniperrifle'] = {
+            label = 'weapon_sniperrifle',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_snowball'] = {
+            label = 'weapon_snowball',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_snspistol'] = {
+            label = 'weapon_snspistol',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_snspistol_mk2'] = {
+            label = 'weapon_snspistol_mk2',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_specialcarbine'] = {
+            label = 'weapon_specialcarbine',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_specialcarbine_mk2'] = {
+            label = 'weapon_specialcarbine_mk2',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_stickybomb'] = {
+            label = 'weapon_stickybomb',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_stone_hatchet'] = {
+            label = 'weapon_stone_hatchet',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_stungun'] = {
+            label = 'weapon_stungun',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_switchblade'] = {
+            label = 'weapon_switchblade',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_tazersg'] = {
+            label = 'weapon_tazersg',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_ump45'] = {
+            label = 'weapon_ump45',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_vector'] = {
+            label = 'weapon_vector',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_vintagepistol'] = {
+            label = 'weapon_vintagepistol',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weapon_wrench'] = {
+            label = 'weapon_wrench',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weed'] = {
+            label = 'weed',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weedlicense'] = {
+            label = 'weedlicense',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weedscissors'] = {
+            label = 'weedscissors',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weed_baggy'] = {
+            label = 'weed_baggy',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weed_baggy_empty'] = {
+            label = 'weed_baggy_empty',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['weed_brick'] = {
+            label = 'weed_brick',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['wheat'] = {
+            label = 'wheat',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['wheat_bag'] = {
+            label = 'wheat_bag',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['wheat_raw'] = {
+            label = 'wheat_raw',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['wheat_seed'] = {
+            label = 'wheat_seed',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['whiskey'] = {
+            label = 'whiskey',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['wine'] = {
+            label = 'wine',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['wings'] = {
+            label = 'wings',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['wood'] = {
+            label = 'wood',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['woowoo'] = {
+            label = 'woowoo',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['wrap'] = {
+            label = 'wrap',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['wrench'] = {
+            label = 'wrench',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['xtc_baggy'] = {
+            label = 'xtc_baggy',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['yeast'] = {
+            label = 'yeast',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
+        ['zipties'] = {
+            label = 'zipties',
+            weight = 1,
+            stack = true,
+            close = true,
+        },
+        
